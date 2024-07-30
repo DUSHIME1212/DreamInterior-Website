@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'michelle';
+    src: url('/fonts/behance-64b7ffe406602.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

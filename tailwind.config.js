@@ -11,6 +11,9 @@ module.exports = {
         "tan":"#cda274",
         "lighttan":"#f4f0ec",
         "bluegray":"#292f36",
+      },
+      fontFamily:{
+        'michelle':'michelle'
       }
     },
   },
