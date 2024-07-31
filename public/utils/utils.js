@@ -2,7 +2,6 @@ export const Navs = [
     { title: 'Home', href: '/' },
     { title: 'About Us', href: '/about' },
     { title: 'Services', href: '/services' },
-    { title: 'Pages', href: '/' },
     { title: 'Contact us', href: '/contact' },
 ]
 export const Explore = [

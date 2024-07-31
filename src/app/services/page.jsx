@@ -9,7 +9,7 @@ const Page = () => {
     return (
         <div className={'min-h-72 py-16 flex gap-8 flex-col items-center justify-center px-16 md:px-32 lg:px-32'}>
             <div className={'min-h-72 w-full relative bg-bluegray'}>
-                <Image src={'/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg'} alt={''} className={'object-cover'} fill/>
+                <Image src={'https://i.pinimg.com/736x/81/25/f5/8125f5d6d68356a34c6b22a00d37f422.jpg'} alt={''} className={'object-cover'} fill/>
                 <div className={'w-72 min-h-32 p-8 flex flex-col gap-4 text-center rounded-xl bg-white z-10 absolute left-1/2 -bottom-16 -translate-x-1/2'}>
                     <h1 className={'text-3xl  font-michelle'}>Services</h1>
                     <p className={'text-xl'}>Home / Services</p>

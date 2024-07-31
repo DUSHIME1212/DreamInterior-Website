@@ -9,12 +9,12 @@ const Page = () => {
             <div className={'min-h-72 w-full relative bg-bluegray'}>
                 <Image src={'/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg'} alt={''} className={'object-cover'} fill/>
                 <div className={'w-72 min-h-32 p-8 flex flex-col gap-4 text-center rounded-xl bg-white z-10 absolute left-1/2 -bottom-16 -translate-x-1/2'}>
-                    <h1 className={'text-3xl font-semibold'}>About us</h1>
+                    <h1 className={'text-3xl font-michelle'}>About us</h1>
                     <p className={'text-xl'}>Home / About us</p>
                 </div>
             </div>
             <div className={'w-full min-h-52 mt-56 rounded-xl p-16 bg-lighttan text-tan text-center'}>
-                <h1 className={'text-[16rem] font-serif'}>,,</h1>
+                <h1 className={'text-[16rem] leading-[10rem] font-michelle'}>"</h1>
                 <i className={'text-3xl px-16'}>Your Home should tell the story of who you are, and be a Collection of what you Love.</i>
             </div>
             <div className={'w-full flex flex-row justify-between'}>
