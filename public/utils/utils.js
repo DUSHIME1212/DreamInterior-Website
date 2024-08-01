@@ -185,3 +185,54 @@ export const Services = [
         readMoreLink: '#', // Replace with actual link
     },
 ];
+export const Projects = [
+    {
+      id: '0',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg', // Replace with actual image paths
+      title: 'Interior Design',
+      category: 'Kitchen Design',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/interior-design'
+    },
+    {
+      id: '1',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg',
+      title: 'Living Room',
+      category: 'How To Choose The Best Wall Art & Decor House?',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/living-room'
+    },
+    {
+      id: '2',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg',
+      title: 'Minimalist Interior',
+      category: 'Tips To Increase The Interior Value Of Your House',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/minimalist-interior'
+    },
+    {
+      id: '3',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg',
+      title: 'Kitchen Design',
+      category: 'Best Solution For Any Office & Business Interior',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/kitchen-design'
+    },
+    {
+      id: '5',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg',
+      title: 'Living Room',
+      category: 'Get Solution For Building Construction Work',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/living-room-construction'
+    },
+    {
+      id: '6',
+      image: '/Projects/65bb1bd8cf9330922c3d8aee_blog-image-small-1.jpg',
+      title: 'Minimalist Interior',
+      category: 'Attain The Best Finish For The Kitchen Cabinets',
+      date: 'November 23, 2021',
+      readMoreLink: '/blog/minimalist-kitchen-cabinets'
+    }
+  ];
+  

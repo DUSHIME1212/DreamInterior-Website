@@ -1,14 +1,14 @@
 import React from 'react'
-import Herocomp from "@/app/_components/Herocomp";
-import Servicesection from "@/app/_components/Servicesection";
-import Introcontent from "@/app/_components/Introcontent";
-import Testiomonial from "@/app/_components/Testiomonial";
-import Logosslider from "@/app/_components/Logosslider";
-import Projects from "@/app/_components/Projects";
-import CounterSection from "@/app/_components/CounterSection";
-import BlogList from "@/app/_components/BlogList";
-import ContactSection from "@/app/_components/ContactSection";
-import Footer from "@/app/_components/Footer";
+import Herocomp from "../app/components/Herocomp";
+import Servicesection from "../app/components/Servicesection";
+import Introcontent from "../app/components/Introcontent";
+import Testiomonial from "../app/components/Testiomonial";
+import Logosslider from "../app/components/Logosslider";
+import Projects from "../app/components/Projects";
+import CounterSection from "../app/components/CounterSection";
+import BlogList from "../app/components/BlogList";
+import ContactSection from "../app/components/ContactSection";
+import Footer from "../app/components/Footer";
 
 export default function Page () {
     return (

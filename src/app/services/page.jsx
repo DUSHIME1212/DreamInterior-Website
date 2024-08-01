@@ -1,9 +1,9 @@
 import React from 'react'
 import Image from "next/image";
-import Footer from "@/app/_components/Footer";
+import Footer from "../../app/components/Footer";
 import {InteriorDesignSections, Services, teamMembers} from "../../../public/utils/utils";
 import Link from "next/link";
-import ContactSection from "@/app/_components/ContactSection";
+import ContactSection from "../../app/components/ContactSection";
 
 const Page = () => {
     return (

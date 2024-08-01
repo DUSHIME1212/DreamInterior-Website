@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const PagesButton = () => {
 
-    const [toogle, setToogle] = useState(true);
+    const [toogle, setToogle] = useState(false);
 
     function toggleToogle() {
         setToogle(prev => !prev);

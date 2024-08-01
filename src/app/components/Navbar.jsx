@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from "next/link";
 import {Navs} from "../../../public/utils/utils";
-import PagesButton from "../_components/PagesButton.jsx";
+import PagesButton from "../../app/components/PagesButton";
 
 const Navbar = () => {
     return (

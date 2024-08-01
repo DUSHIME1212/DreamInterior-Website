@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from "next/image";
-import Footer from "@/app/_components/Footer";
+import Footer from "../../app/components/Footer";
 import {teamMembers} from "../../../public/utils/utils";
 
 const Page = () => {

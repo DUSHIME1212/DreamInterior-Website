@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from "next/image";
 import {Socials} from "../../../public/utils/utils";
+import Footer from '../components/Footer';
 
 const Page = () => {
     return (
@@ -25,7 +26,7 @@ const Page = () => {
                     <div className={'font-michelle text-2xl'}>
                         <span>www.interno.com</span>
                     </div>
-                    <div className={'flex flex-row'}>
+                    <div className={'flex gap-2 p-2 w-fit flex-row'}>
                         {Socials.map((item, i) => (
                             <div key={i} className={'size-4 relative'}>
                                 <Image src={item.logo} className={'object-contain'} alt={''} fill/>
@@ -35,6 +36,7 @@ const Page = () => {
                 </div>
 
             </div>
+            <Footer/>
         </div>
     )
 }
